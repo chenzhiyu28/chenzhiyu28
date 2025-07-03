@@ -1,4 +1,9 @@
 # Leopold_Chen
 
-Hello ! This is Leopold Chen!
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chenzhiyu28)](https://github.com/anuraghazra/github-readme-stats)
+Hello! This is Leopold Chen!
+<picture>
+
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
