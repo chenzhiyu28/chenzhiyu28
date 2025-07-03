@@ -1,6 +1,14 @@
-# Leopold_Chen
+# Hi, I'm Leopold 👋
 
-Hello! This is Leopold Chen!
+I'm a motivated software engineer passionate about building scalable and maintainable full-stack applications.  
+With solid experience in **Spring Boot**, **React**, **TypeScript**, **Node.js** and **Cloud deployment**, I enjoy solving real-world problems by leveraging modern technologies.
+
+- 🔭 Currently working on next.js projects involving full-stack web development, AI integration and automation.
+- 🌱 Continuously learning advanced backend frameworks and cloud infrastructure
+- 💡 Strong believer in clean code, automated testing, and agile practices
+- 📫 Feel free to reach out via LinkedIn or Email (linked in my profile)
+
+Thank you for visiting!
 
 <!-- <picture>
 
