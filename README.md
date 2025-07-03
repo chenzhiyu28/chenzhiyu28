@@ -11,6 +11,6 @@ Hello! This is Leopold Chen!
 
 ### 🐍 Watch my contribution graph eat my code!
 
-![github contribution grid snake](https://github.com/chenzhiyu28/chenzhiyu28/blob/output/github-snake.svg)
+<!-- ![github contribution grid snake](https://github.com/chenzhiyu28/chenzhiyu28/blob/output/github-snake.svg) -->
 
 ![github contribution grid snake animation](https://github.com/chenzhiyu28/chenzhiyu28/blob/output/github-snake-dark.svg?palette=github-dark)
