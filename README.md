@@ -10,15 +10,11 @@ With solid experience in **Spring Boot**, **React**, **TypeScript**, **Node.js**
 
 Thank you for visiting!
 
-<!-- <picture>
-
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture> -->
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?logo=typescript&logoColor=white&style=flat-square)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat-square)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat-square)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=flat-square)
 
 ### 🐍 Watch my contribution graph eat my code!
-
-<!-- ![github contribution grid snake](https://github.com/chenzhiyu28/chenzhiyu28/blob/output/github-snake.svg) -->
 
 ![github contribution grid snake animation](https://github.com/chenzhiyu28/chenzhiyu28/blob/output/github-snake-dark.svg?palette=github-dark)
